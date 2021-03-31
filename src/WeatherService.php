@@ -1,9 +1,7 @@
 <?php
 
-namespace Asti\Weather;
+namespace Asti\Module;
 
-use Asti\Geoip\CurlService;
-use Asti\Ipcheck\HelperFunctions;
 
 class WeatherService
 {

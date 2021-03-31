@@ -1,6 +1,6 @@
 <?php
 
-namespace Asti\Geoip;
+namespace Asti\Module;
 
 class GeoipService
 {
